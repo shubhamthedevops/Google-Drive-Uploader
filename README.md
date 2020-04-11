@@ -9,15 +9,16 @@ You can upload files &amp; directory to google drive.
 
 * You can use google-drive-uploader.sh file below options:- 
 
--C | --create-directory/folder <folder-name> - option to create directory/folder with folder id.
 
--r | --dir-id <googledrive-folderID> - google folder id to which the file/directory to upload. ( You can find your google drive folder id on address bar on G-drive site )
+        -C | --create-directory/folder <folder-name> - option to create directory/folder with folder id.
 
--v | --folder-id - Display Folder ID
+        -r | --dir-id <googledrive-folderID> - google folder id to which the file/directory to upload. ( You can find your google drive folder id on address bar on G-drive )
 
--z | --config - Override default config file with custom config file.
+        -v | --folder-id - Display Folder ID
 
--h | --help - Display usage instructions.
+        -z | --config - Override default config file with custom config file.
+
+        -h | --help - Display usage instructions.
 
 ## Example:-  ##
 
@@ -39,5 +40,12 @@ Download the installation script
 
 Then run it
 
-    bash google-drive-uploader.sh
+    bash google-drive-uploader.sh [ Your Option ]
 
+Credit
+
+[Maskoid Technologies Pvt. Ltd.](https://www.maskoid.com) | [google cloud platform ](https://console.developers.google.com) | [GitHub](https://gihub.com)
+
+Thanks for visting ! Happy coding.
+
+[Shubham The DevOps](https://shubhamthedevops.com)
