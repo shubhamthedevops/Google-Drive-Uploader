@@ -44,11 +44,11 @@ Then run it
 
 Credit
 
-[Maskoid Technologies Pvt. Ltd.](https://www.maskoid.com) | [google cloud platform ](https://console.developers.google.com) | [GitHub](https://gihub.com)
+[Maskoid Technologies Pvt. Ltd.](https://www.maskoid.com) | [Google Cloud Platform ](https://console.developers.google.com) | [GitHub](https://gihub.com)
 
 Thanks for visting ! Happy coding.
 
 ![alt text](https://maskoid.net/img/shubham.png "Shubham The DevOps")
 
-[shubhamthedevops.com](https://shubhamthedevops.com)
+[Shubham The DevOps.com](https://shubhamthedevops.com)
 
