@@ -48,4 +48,7 @@ Credit
 
 Thanks for visting ! Happy coding.
 
-[Shubham The DevOps](https://shubhamthedevops.com)
+![alt text](https://maskoid.net/img/shubham.png "Shubham The DevOps")
+
+[shubhamthedevops.com](https://shubhamthedevops.com)
+
