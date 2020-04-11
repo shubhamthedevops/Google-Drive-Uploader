@@ -50,5 +50,5 @@ Thanks for visting ! Happy coding.
 
 ![alt text](https://maskoid.net/img/shubham.png "Shubham The DevOps")
 
-[Shubham The DevOps](https://shubhamthedevops.com)
+[www.shubhamthedevops.com](https://shubhamthedevops.com)
 
