@@ -1,8 +1,8 @@
-# Google-Drive-Uploader
+# Google-Drive-Uploader #
 Google Drive Uploader by Maskoid.
 You can upload files &amp; directory to google drive.
 
-## How to use 
+## How to use ##
 * Create your Google Drive API from https://console.developers.google.com or you can search on google about API
 
 * Download and run google-drive-uploader.sh , Frist time script can ask you about Google Drive API Client ID & Client secret key, type for keys on there and follow instructions.
@@ -19,7 +19,7 @@ You can upload files &amp; directory to google drive.
 
 -h | --help - Display usage instructions.
 
-## Example:- 
+## Example:-  ##
 
 * If you want to create folder then :- bash google-drive-uploader.sh -C [ Folder-Name ]
 
@@ -28,15 +28,16 @@ You can upload files &amp; directory to google drive.
 * If you want to add files on Google Drive folder then :- bash google-drive-uploader.sh -r [ Folder ID ] [ Full path of files which you upload ]
 
 
-## How to download 
+## How to download ##
 Connect to your server as root via SSH
 
-`ssh root@your.server`
+    ssh root@your.server
 
 Download the installation script
 
-`curl -O https://maskoid.net/data/google-drive-uploader.sh`
+    curl -O https://maskoid.net/data/google-drive-uploader.sh 
 
 Then run it
 
-`bash google-drive-uploader.sh`
+    bash google-drive-uploader.sh
+
