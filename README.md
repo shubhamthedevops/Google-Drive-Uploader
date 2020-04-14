@@ -20,7 +20,7 @@ You can upload files &amp; directory to google drive.
 
 -h | --help - Display usage instructions.
 
-## Example:-  ##
+## Example ##
 
 * If you want to create folder then :- bash google-drive-uploader.sh -C [ Folder-Name ]
 
